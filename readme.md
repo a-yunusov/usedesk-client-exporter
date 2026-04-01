@@ -106,4 +106,3 @@ Usedesk-ClientExporter/
 - `GET /client` — получение детальной информации о клиенте
 
 Документация: https://api.usedocs.ru/
->>>>>>> 1afe47f (changed readme)
